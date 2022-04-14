@@ -7,7 +7,7 @@
   @apply text-lg font-bold;
 }
 
-.detail {
+.details {
   @apply flex gap-4 ;
 }
 
