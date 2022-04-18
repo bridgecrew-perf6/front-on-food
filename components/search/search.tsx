@@ -12,7 +12,7 @@ export function Search() {
       <Menu.Items className={Styles.options}>
         <div>
           <Menu.Item>
-            <ItemLink href="/descobrir/sao-paulo-sap">São Paulo, SP</ItemLink>
+            <ItemLink href="/descobrir/sao-paulo-sp">São Paulo, SP</ItemLink>
           </Menu.Item>
           <Menu.Item>
             <ItemLink href="/descobrir/florianopolis-sc">Florianópolis, SC</ItemLink>
